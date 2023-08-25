@@ -71,10 +71,10 @@
   [
     {
       "id":1,
-      "name":"Ludo King",
-      "image_url":"file:///android_asset/mine.webp",
-      "video_url":"footbal",
-      "voice_url":"dosa_membawa_keburukan.mp3"
+      "name":"Aldi",
+      "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/2fb93b109a91ddb51f056473b40a2a5b567fdc2b/Cerita%20jekho/aldi.jpg",
+      "video_url":"https://github.com/opicktaopik/fakecall/raw/main/Cerita%20jekho/aldi.mp4",
+      "voice_url":"https://github.com/opicktaopik/fakecall/raw/main/Cerita%20jekho/aldi.mp3"
     },
     {
       "id":2,
