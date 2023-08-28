@@ -2,7 +2,7 @@
   "Ads": [
       {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-M",
+      "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "main_ads_natives":"",
@@ -50,6 +50,18 @@
     },
     {
       "id":4,
+      "title":"Sonic the Hedgehog™ Classic",
+      "image":"file:///android_asset/sonic.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.sega.sonic1px"
+    },
+    {
+      "id":5,
+      "title":"War Machines: Best Free Online War & Military Game",
+      "image":"file:///android_asset/machine.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta"
+    },
+    {
+      "id":6,
       "title":"Tank vs Helicopter. Free War Game: Massive Warfare",
       "image":"file:///android_asset/heli.webp",
       "link":"https://play.google.com/store/apps/details?id=com.tinybytes.massivewarfare2"
@@ -59,10 +71,10 @@
   [
     {
       "id":1,
-      "name":"Aldi",
-      "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/2fb93b109a91ddb51f056473b40a2a5b567fdc2b/Cerita%20jekho/aldi.jpg",
-      "video_url":"https://github.com/opicktaopik/fakecall/raw/main/Cerita%20jekho/aldi.mp4",
-      "voice_url":"https://github.com/opicktaopik/fakecall/raw/main/Cerita%20jekho/aldi.mp3"
+      "name":"Ludo King",
+      "image_url":"file:///android_asset/mine.webp",
+      "video_url":"footbal",
+      "voice_url":"dosa_membawa_keburukan.mp3"
     },
     {
       "id":2,
@@ -82,7 +94,7 @@
       "id":4,
       "name":"Sonic the Hedgehog™ Classic",
       "image_url":"file:///android_asset/sonic.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower3.mov",
+      "video_url":"footbal",
       "voice_url":"https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
     },
     {
@@ -97,7 +109,7 @@
       "name":"Tank vs Helicopter. Free War Game: Massive Warfare",
       "image_url":"https://aliendro.id/uploads/demo/fakecall/heli.webp",
       "video_url":"https://aliendro.id/uploads/demo/fakecall/flower3.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+      "voice_url":"dosa_membawa_keburukan.mp3"
     }
   ]
 
