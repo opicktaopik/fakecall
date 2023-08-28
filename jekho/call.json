@@ -50,18 +50,6 @@
     },
     {
       "id":4,
-      "title":"Sonic the Hedgehog™ Classic",
-      "image":"file:///android_asset/sonic.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.sega.sonic1px"
-    },
-    {
-      "id":5,
-      "title":"War Machines: Best Free Online War & Military Game",
-      "image":"file:///android_asset/machine.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta"
-    },
-    {
-      "id":6,
       "title":"Tank vs Helicopter. Free War Game: Massive Warfare",
       "image":"file:///android_asset/heli.webp",
       "link":"https://play.google.com/store/apps/details?id=com.tinybytes.massivewarfare2"
@@ -72,9 +60,9 @@
     {
       "id":1,
       "name":"Ludo King",
-      "image_url":"file:///android_asset/mine.webp",
-      "video_url":"footbal",
-      "voice_url":"dosa_membawa_keburukan.mp3"
+      "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/Cerita%20jekho/aldi.jpg",
+      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/Cerita%20jekho/aldi.mp4",
+      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/Cerita%20jekho/aldi.mp3"
     },
     {
       "id":2,
