@@ -2,7 +2,7 @@
   "Ads": [
       {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "main_ads_natives":"",
@@ -94,7 +94,7 @@
       "id":4,
       "name":"Sonic the Hedgehog™ Classic",
       "image_url":"file:///android_asset/sonic.webp",
-      "video_url":"footbal",
+      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower3.mov",
       "voice_url":"https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
     },
     {
@@ -109,7 +109,7 @@
       "name":"Tank vs Helicopter. Free War Game: Massive Warfare",
       "image_url":"https://aliendro.id/uploads/demo/fakecall/heli.webp",
       "video_url":"https://aliendro.id/uploads/demo/fakecall/flower3.mov",
-      "voice_url":"dosa_membawa_keburukan.mp3"
+      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
     }
   ]
 
