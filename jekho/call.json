@@ -32,27 +32,9 @@
   [
     {
       "id":1,
-      "title":"Ludo King",
-      "image":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/jekho.jpg",
+      "title":"Farel Prayoga",
+      "image":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/farel.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
-    },
-    {
-      "id":2,
-      "title":"Homescapes",
-      "image":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/jekho.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-    },
-    {
-      "id":3,
-      "title":"Minecraft",
-      "image":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/jekho.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
-    },
-    {
-      "id":4,
-      "title":"Tank vs Helicopter. Free War Game: Massive Warfare",
-      "image":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/jekho.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.tinybytes.massivewarfare2"
     }
   ],
   "Item":
@@ -61,106 +43,106 @@
       "id":1,
       "name":"Pak Jekho",
       "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/jekho.jpg",
-      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/Cerita%20jekho/aldi.mp4",
-      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/Cerita%20jekho/aldi.mp3"
+      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/jekho.mp4",
+      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/mp.mp3"
     },
     {
       "id":2,
       "name":"Dinda",
       "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/dinda.jpg",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/dinda.mp4",
+      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/mp.mp3"
     },
     {
       "id":3,
       "name":"Belva",
       "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/belva.jpg",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower3.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
+      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/dinda.mp4",
+      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/mp.mp3"
     },
     {
       "id":4,
       "name":"Rafie",
       "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/rafie.jpg",
-      "video_url":"footbal",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
+      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/rafie.mp4",
+      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/mp.mp3"
     },
     {
       "id":5,
       "name":"Dini",
       "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/dini.jpg",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/dinda.mp4",
+      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/mp.mp3"
     },
     {
       "id":6,
       "name":"Pak Ade",
       "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/ade.jpg",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/jekho.mp4",
+      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/mp.mp3"
     },
     {
       "id":7,
       "name":"Aldi",
       "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/aldi.jpg",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/rafie.mp4",
+      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/mp.mp3"
     },
     {
       "id":8,
       "name":"Mami Melli",
       "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/meli.jpg",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/dinda.mp4",
+      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/mp.mp3"
     },
     {
       "id":9,
       "name":"Ria",
       "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/ria.jpg",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/dinda.mp4",
+      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/mp.mp3"
     },
     {
       "id":10,
       "name":"Hilma",
       "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/hilma.jpg",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/dinda.mp4",
+      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/mp.mp3"
     },
     {
       "id":11,
       "name":"Randika",
       "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/randika.jpg",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/rafie.mp4",
+      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/mp.mp3"
     },
     {
       "id":12,
       "name":"Tante Tia",
       "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/tia.jpg",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/dinda.mp4",
+      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/mp.mp3"
     },
     {
       "id":13,
       "name":"Pak Dian",
       "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/dian.jpg",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/jekho.mp4",
+      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/mp.mp3"
     },
     {
       "id":14,
       "name":"Evan",
       "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/evan.jpg",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/rafie.mp4",
+      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/mp.mp3"
     },
     {
       "id":15,
       "name":"Yana",
       "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/yana.jpg",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/rafie.mp4",
+      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/mp.mp3"
     }
   ]
 
