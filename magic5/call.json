@@ -3,26 +3,26 @@
       {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-3161134311460828/6612239951",
-      "main_ads_intertitial":"ca-app-pub-3161134311460828/7546634408",
-      "main_ads_natives":"ca-app-pub-3161134311460828/6420668264",
-      "main_ads_rewards":"ca-app-pub-3161134311460828/3195739128",
-      "backup_ads_natives":"538cb21fe30dd1fd",
-      "backup_ads_banner":"ab9941fd5b25bfbc",
-      "backup_ads_intertitial":"9305d1304e462a31",
-      "backup_ads_rewards":"ed74fa4c4642aa6e",
-      "open_ads_admob":"ca-app-pub-3161134311460828/8556749153",
+      "main_ads_banner": "ca-app-pub-3161134311460828/6678083907",
+      "main_ads_intertitial":"ca-app-pub-3161134311460828/5732629909",
+      "main_ads_natives":"ca-app-pub-3161134311460828/8649355719",
+      "main_ads_rewards":"ca-app-pub-3161134311460828/4107475477",
+      "backup_ads_natives":"5b5ea612420775b8",
+      "backup_ads_banner":"9318b659d5418170",
+      "backup_ads_intertitial":"ccea044baf6b3ffd",
+      "backup_ads_rewards":"a6448dbefc259dc7",
+      "open_ads_admob":"ca-app-pub-3161134311460828/2738838895",
       "open_ads_alien":"",
-      "open_ads_max":"ae685f23c354ca12",
+      "open_ads_max":"b25e24b2125a8638",
       "open_ads_wortise":"",
       "interval_intertitial": 5,
-      "initialize_sdk":"1656013476",
+      "initialize_sdk":"8011346871",
       "initialize_sdk_backup_ads":"h2KsTER4qHRuL6dKKHA0d6JCTMQoAmdr8EFKvzUf_q2m8cTIhePB5wN5_CgGZt7wZoTcz7IHAhJvrIezV0pxq_",
-      "high_paying_keyword_1": "teknologi",
-      "high_paying_keyword_2": "keuangan",
-      "high_paying_keyword_3": "properti",
+      "high_paying_keyword_1": "saham",
+      "high_paying_keyword_2": "properti",
+      "high_paying_keyword_3": "gadget",
       "high_paying_keyword_4": "belanja",
-      "high_paying_keyword_5": "saham",
+      "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://"
       }
@@ -42,44 +42,44 @@
     {
       "id":1,
       "name":"Magic 5",
-      "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/jekho.jpg",
-      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/jekhodini.mp4",
-      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/jekhodini.mp3"
+      "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/magic5.jpg",
+      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/Cerita%20jekho/aldi.mp4",
+      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/Cerita%20jekho/aldi.mp3"
     },
     {
       "id":2,
       "name":"Rahsya",
-      "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/dinda.jpg",
-      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/dinda.mp4",
-      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/dinda.mp3"
+      "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/rahsya.jpg",
+      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/Cerita%20jekho/aldi.mp4",
+      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/Cerita%20jekho/aldi.mp3"
     },
     {
       "id":3,
       "name":"Naura",
-      "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/belva.jpg",
-      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/belva.mp4",
-      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/belva.mp3"
+      "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/naura.jpg",
+      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/Cerita%20jekho/aldi.mp4",
+      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/Cerita%20jekho/aldi.mp3"
     },
     {
       "id":4,
       "name":"Gibran",
-      "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/rafie.jpg",
-      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/rafie.mp4",
-      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/rafie.mp3"
+      "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/gibran.jpg",
+      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/Cerita%20jekho/aldi.mp4",
+      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/Cerita%20jekho/aldi.mp3"
     },
     {
       "id":5,
       "name":"Adara",
-      "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/dini.jpg",
-      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/jekhodini.mp4",
-      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/jekhodini.mp3"
+      "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/adara.jpg",
+      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/Cerita%20jekho/aldi.mp4",
+      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/Cerita%20jekho/aldi.mp3"
     },
     {
       "id":6,
       "name":"Irshad",
-      "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/jekho/ade.jpg",
-      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/ade.mp4",
-      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/video/ade.mp3"
+      "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/irshad.jpg",
+      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/Cerita%20jekho/aldi.mp4",
+      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/Cerita%20jekho/aldi.mp3"
     }
   ]
 
