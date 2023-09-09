@@ -48,34 +48,41 @@
     },
     {
       "id":2,
+      "name":"Magic 5",
+      "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/magic52.jpg",
+      "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/magic5.mp4",
+      "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/magic5.mp3"
+    },
+    {
+      "id":3,
       "name":"Rahsya",
       "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/rahsya.jpg",
       "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/rahsya.mp4",
       "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/rahsya.mp3"
     },
     {
-      "id":3,
+      "id":4,
       "name":"Naura",
       "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/naura.jpg",
       "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/naura.mp4",
       "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/naura.mp3"
     },
     {
-      "id":4,
+      "id":5,
       "name":"Gibran",
       "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/gibran.jpg",
       "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/gibran.mp4",
       "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/gibran.mp3"
     },
     {
-      "id":5,
+      "id":6,
       "name":"Adara",
       "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/adara.jpg",
       "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/adara.mp4",
       "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/adara.mp3"
     },
     {
-      "id":6,
+      "id":7,
       "name":"Irshad",
       "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/irshad.jpg",
       "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/irshad.mp4",
