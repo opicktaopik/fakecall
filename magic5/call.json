@@ -70,7 +70,7 @@
     {
       "id":5,
       "name":"Gibran",
-      "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/gibran.jpg",
+      "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/irshad.jpg",
       "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/gibran.mp4",
       "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/gibran.mp3"
     },
@@ -84,7 +84,7 @@
     {
       "id":7,
       "name":"Irshad",
-      "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/irshad.jpg",
+      "image_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/gibran.jpg",
       "video_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/irshad.mp4",
       "voice_url":"https://raw.githubusercontent.com/opicktaopik/fakecall/main/magic5/irshad.mp3"
     }
